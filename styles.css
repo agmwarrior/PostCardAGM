@@ -1,0 +1,36 @@
+body {
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+img {
+	position: absolute;
+	top: 12%;
+	left: 30%;
+	margin-top: -60px;
+    margin-left: -40px;
+    width: 50px; height: 50px;
+}
+
+button 
+{
+    font-family: 'Yusei Magic', sans-serif;
+	background-color: #CDCDCD;
+	font-size: 16px;
+	justify-content: center;
+	margin-top: -200px;
+	margin-left:150px;
+	border: none;
+	
+}
+
+input
+{
+	font-family: 'Yusei Magic', sans-serif;
+	font-size: 16px;
+    position: absolute;
+	border: none;
+	margin-top: -170px;
+	left: 18%;
+	border-bottom:1px solid grey;
+
+}
